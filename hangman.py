@@ -2,4 +2,4 @@ import math
 import random
 
   class Player:
-    def 
+    def __init__(
