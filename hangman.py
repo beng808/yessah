@@ -1,2 +1,5 @@
-print "hello"
+import math
+import random
 
+  class Player:
+    def 
